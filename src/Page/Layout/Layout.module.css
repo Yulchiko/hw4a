@@ -1,0 +1,11 @@
+.layout{
+    height: 50px;
+    text-decoration: none;
+    font-size: 40px;
+    background: aquamarine;
+
+}
+.users{
+   display: flex;
+    justify-content: space-evenly;
+}
